@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 # Vexor World - MultiBot
 
 ## Introduction
 Vexor World - MultiBot is a Discord bot written in Python using the Discord.py library. It monitors game servers and updates its Discord status based on the number of players online using data fetched from the BattleMetrics API. This bot is designed to run multiple instances, each monitoring a different server.
+=======
+# Vexor World - Multi Player Counter
+
+## Introduction
+Vexor World - Multi Player Counter is a Discord bot written in Python using the Discord.py library. It monitors game servers and updates its Discord status based on the number of players online using data fetched from the BattleMetrics API. This bot is designed to run multiple instances, each monitoring a different server.
+>>>>>>> Stashed changes
 
 ## Installation
 1. Clone this repository to your local machine:
