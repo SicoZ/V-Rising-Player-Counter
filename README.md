@@ -1,7 +1,7 @@
 # Vexor World - Multi Players Counter Bot
 
 ## Introduction
-Vexor World - Players Counter Bot is a Discord bot written in Python using the Discord.py library. It monitors game servers and updates its Discord status based on the number of players online using data fetched from the BattleMetrics API. This bot is designed to run multiple instances, each monitoring a different server.
+Vexor World - Multi Players Counter is a Discord bot written in Python using the Discord.py library. It monitors game servers and updates its Discord status based on the number of players online using data fetched from the BattleMetrics API. This bot is designed to run multiple instances, each monitoring a different server.
 
 ## Installation
 1. Clone this repository to your local machine:
@@ -17,6 +17,9 @@ Vexor World - Players Counter Bot is a Discord bot written in Python using the D
     ```
 
 3. Update the `BOT_TOKENS` and `SERVER_IDS` variables in `status.py` with your bot tokens and server IDs.
+
+## Example:
+   ![Example](example.png)
 
 ## Discord Bot Setup
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
@@ -51,6 +54,10 @@ Vexor World - Players Counter Bot is a Discord bot written in Python using the D
     ```
 
 4. The bot will start running and update its status based on the number of players online in the specified game servers.
+
+## Contact
+- Discord Server: [Join our Discord Server](https://discord.gg/JpVsKVvKNR)
+- Discord Tag: sic0z
 
 ## Contributing
 If you'd like to contribute to this project, you can:
